@@ -1,4 +1,4 @@
-token = ""
+token = "645187914:AAEs2C2HQmXsiW9g1uwQBgYKsNvsOfO_r-E"
 help = ""
 privet = """Привет дорогой друг!
 Пока что мой функционал довольно слаб
