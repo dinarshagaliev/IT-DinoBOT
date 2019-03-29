@@ -3,12 +3,8 @@
 import telebot
 import const
 from telebot.types import InputLocationMessageContent
-# import requests # на случай если телеграмм блокирует
-# from fake_useragent import UserAgent
 
-# response = requests.get('https://api.telegram.org/', headers={'User-Agent': UserAgent().random})
-# print(response)
-bot = telebot.TeleBot(const.token)
+bot = telebot.TeleBot("")
 
 # bot.send_message(591554858, '=D')
 # updates = bot.get_updates()
