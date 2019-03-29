@@ -2,9 +2,9 @@
 
 import telebot
 import const
-from telebot.types import InputLocationMessageContent
 
-bot = telebot.TeleBot("")
+
+bot = telebot.TeleBot(const.token)
 
 # bot.send_message(591554858, '=D')
 # updates = bot.get_updates()
